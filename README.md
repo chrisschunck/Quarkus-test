@@ -4,6 +4,7 @@ Aplicar conhecimento em POO e API REST utilizando o framework Quarkus com Rabbit
 # Tecnologias 
 Java 
 Quarkus
+Arquitetura Hexagonal e em Camadas
 Hibernate
 Junit5
 Assert
