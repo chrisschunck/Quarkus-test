@@ -11,6 +11,13 @@ Docker
 RabbitMQ
 PostgreSql
 
+# Como Rodar
+Abrir terminal e rodar cd src do arquivo 
+com o docker aberto local rodar:
+docker 
+docker compose up 
+sobe o banco de dados e o rabbitMQ automaticamente
+
 # Funcionalidades Futuras
 Interface 
 Envio de emails e notificações 
