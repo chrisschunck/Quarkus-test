@@ -12,6 +12,9 @@ Docker
 RabbitMQ
 PostgreSql
 
+# Banco de Dados
+driver e url do PostgreSql
+
 # Como Rodar
 Abrir terminal e rodar cd src do arquivo 
 com o docker aberto local rodar:
